@@ -4,7 +4,7 @@ function App() {
   return (
     <section className="card">
       <div className="card__person"></div>
-      <h2 className="card__name">Lawrent Umaña Jimenes</h2>
+      <h2 className="card__name">Lawrent Yamil</h2>
       <p className="card__position">Full-Stack Developer</p>
       <div className="card__tecnologies">
         <span>Tecnologies that I know:</span>
