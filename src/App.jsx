@@ -9,16 +9,16 @@ function App() {
       <div className="card__tecnologies">
         <span>Tecnologies that I know:</span>
         <div className="card__tecnologies__list">
-          <a href="#" className="card__icon card__icon--html"></a>
-          <a href="#" className="card__icon card__icon--css"></a>
-          <a href="#" className="card__icon card__icon--bootstrap"></a>
-          <a href="#" className="card__icon card__icon--js"></a>
-          <a href="#" className="card__icon card__icon--typescript"></a>
-          <a href="#" className="card__icon card__icon--mongodb"></a>
-          <a href="#" className="card__icon card__icon--express"></a>
-          <a href="#" className="card__icon card__icon--react"></a>
-          <a href="#" className="card__icon card__icon--node"></a>
-          <a href="#" className="card__icon card__icon--git"></a>
+          <div href="#" className="card__icon card__icon--html"></div>
+          <div href="#" className="card__icon card__icon--css"></div>
+          <div href="#" className="card__icon card__icon--bootstrap"></div>
+          <div href="#" className="card__icon card__icon--js"></div>
+          <div href="#" className="card__icon card__icon--typescript"></div>
+          <div href="#" className="card__icon card__icon--mongodb"></div>
+          <div href="#" className="card__icon card__icon--express"></div>
+          <div href="#" className="card__icon card__icon--react"></div>
+          <div href="#" className="card__icon card__icon--node"></div>
+          <div href="#" className="card__icon card__icon--git"></div>
         </div>
       </div>
       <div class="card__media">

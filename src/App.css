@@ -151,3 +151,51 @@ body {
   height: 90px;
   width: 700px;
 }
+
+
+/* Mobiles */
+@media (max-width: 768px) {
+  span {
+    display: none;
+  }
+  .card {
+    width: 400px;
+    margin-top: 0;
+  }
+  .card__person {
+    width: 80px;
+    height: 80px;
+    margin: 10px auto;
+  }
+  .card__name {
+    font-size: 1.2rem;
+    margin-top: 1px;
+    margin-bottom: 2px;
+  }
+  .card__position {
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-bottom: 3px;
+  }
+  .card__media {
+    height: 100px;
+  }
+  .card__icon {
+    width: 20%;
+    height: 50px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+  }
+  .card__tecnologies {
+    width: 400px;
+    height: 300px;
+  }
+  .card__tecnologies__list {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
